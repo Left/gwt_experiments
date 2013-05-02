@@ -1,0 +1,4 @@
+.metadata
+*.class
+gwt-unitCache-*
+*.symbolMap
